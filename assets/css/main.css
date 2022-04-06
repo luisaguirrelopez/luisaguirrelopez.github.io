@@ -2717,7 +2717,39 @@ input, select, textarea {
 				vertical-align: middle;
 				margin-left: 1em;
 			}
-
+			
+			#banner-button-left {
+			
+    			top: 50%;
+    			left: 0%;
+				border: none;
+				display: inline-block;
+				padding: 8px 16px;
+				vertical-align: middle;
+				overflow: hidden;
+				text-decoration: none;
+				color: inherit;
+				background-color: inherit;
+				text-align: center;
+				cursor: pointer;
+				white-space: nowrap
+			}	
+			#banner-button-right {
+				
+    			top: 50%;
+    			right: 0%;
+				border: none;
+				display: inline-block;
+				padding: 8px 16px;
+				vertical-align: middle;
+				overflow: hidden;
+				text-decoration: none;
+				color: inherit;
+				background-color: inherit;
+				text-align: center;
+				cursor: pointer;
+				white-space: nowrap
+			}			
 /* Wrapper */
 
 	.wrapper {
