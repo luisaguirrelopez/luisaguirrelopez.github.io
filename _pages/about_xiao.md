@@ -1,0 +1,3 @@
+[Xiao](https://lab.fengxiao.info) is my advisor. He is a quantitative ecologist and biogeographer who studies macroecological patterns such as biogeography (distribution of species geographically), biodiversity (variety of life in ecosystems) and emerging environmental issues. He uses statistical models and computational informatics to answer ecological and biogeographic questions. His research will provide a scientific basis for biodiversity conservation and land management.
+
+You can find more about his research in his [Google Scholar profile](https://scholar.google.com/citations?user=YmXvK3wAAAAJ&hl=en) and his [Lab Website](https://lab.fengxiao.info).
