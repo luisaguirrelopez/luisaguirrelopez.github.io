@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lab.fengxiao.info/home'>Affiliations</a>. Department of Geography, Florida State University.
+subtitle: Department of Geography, Florida State University.
 
 profile:
   align: right
