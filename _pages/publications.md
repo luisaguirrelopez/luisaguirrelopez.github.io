@@ -10,9 +10,9 @@ nav_order: 1
 
 <div class="publications">
 
-<h1>preprints</h1>
+<!-- <h1>preprints</h1>
 
-{% bibliography -f preprints %}
+{% bibliography -f preprints %} -->
 
 <h1>journal articles</h1>
 
