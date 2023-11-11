@@ -6,7 +6,7 @@ subtitle: Department of Geography, Florida State University.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile1.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>201 Bellamy Building</p>
