@@ -3,16 +3,16 @@
     "name": "Luis J. Aguirre-Lopez",
     "label": "Ecologist",
     "image": "",
-    "email": "laguirrelopez@fsu.edu",
+    "email": "luisjose@unc.edu",
     "phone": "",
     "url": "https://aguirrelopez.com",
     "summary": "Ecologist interested in the dynamics of biotic interactions and their consequences for the structure and function of ecological communities. I use a combination of field observations, experiments, and mathematical models to understand the mechanisms that generate and maintain biodiversity.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Chapel Hill",
       "countryCode": "US",
-      "region": "California"
+      "region": "North Carolina"
     },
     "profiles": [
       {
@@ -38,12 +38,24 @@
   "volunteer": [],
   "education": [
     {
+      "institution": "University of North Carolina, Chapel Hill, NC, USA",
+      "url": "https://bio.unc.edu",
+      "area": "Biology",
+      "studyType": "PhD",
+      "startDate": "2023",
+      "endDate": "now",
+      "score": "",
+      "courses": 
+        ""
+   
+    },
+    {
       "institution": "Florida State University, Tallahassee, Florida, USA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://coss.fsu.edu/geography/",
       "area": "Geography",
       "studyType": "PhD",
       "startDate": "2021",
-      "endDate": "now",
+      "endDate": "2023 (transfered to UNC)",
       "score": "",
       "courses": 
         ""
