@@ -11,9 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Biology
+      institution: University of North Carolina, Chapel Hill, USA
+      year: 2023-now (transfered)
+    - title: PhD in Geography
       institution: Florida State University, Tallahassee, USA
-      year: 2021-now
+      year: 2021-2023 (transfered)
       description:
         - Description 1.
         - Description 2.
