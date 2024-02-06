@@ -40,9 +40,19 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Research and Teaching Assistant
+      institution: Department of Biology, University of North Carolina, Chapel Hill, USA
+      year: 2023-now
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Research and Teaching Assistant
       institution: Department of Geography, Florida State University, Tallahassee, USA
-      year: 2021-now
+      year: 2021-2023
       description:
         - Description 1.
         - Description 2.
