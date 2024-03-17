@@ -16,25 +16,27 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Bluesky",
+        "username": "@luisaguirre.bsky.social",
+        "url": "https://bsky.app/profile/luisaguirre.bsky.social"
       }
     ]
   },
   "work": [
+    
     {
-      "name": "Department of Geography, Florida State University",
+      "name": "Department of Biology, University of North Carolina at Chapel Hill",
       "position": "Research and Teaching Assistant",
-      "url": "https://coss.fsu.edu/geography/",
-      "startDate": "2021",
-      "endDate": "2023",
+      "url": "https://bio.unc.edu/",
+      "startDate": "2023",
+      "endDate": "now",
       "summary": "Research and Teaching Assistant working with Dr. Xiao Feng.",
       "highlights": 
         ""
       
     }
   ],
+  
   "volunteer": [],
   "education": [
     {
