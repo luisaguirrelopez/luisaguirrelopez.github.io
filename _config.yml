@@ -119,18 +119,18 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: medley # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: useful and not so useful stuff # blog_description will be displayed in your blog page
-permalink: /blog/:year/:title/
+# blog_name: medley # blog_name will be displayed in your blog page
+# blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+# blog_description: useful and not so useful stuff # blog_description will be displayed in your blog page
+# permalink: /blog/:year/:title/
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+# related_blog_posts:
+#   enabled: true
+#   max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
@@ -167,9 +167,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+  # projects:
+  #   output: true
+  #   permalink: /projects/:path/
   teaching:
     output: true
     permalink: /teaching/:path/
@@ -254,19 +254,19 @@ jekyll-minifier:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+# jekyll-archives:
+#   enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+#   layouts:
+#     year: archive-year
+#     tag: archive-tag
+#     category: archive-category
+#   permalinks:
+#     year: '/blog/:year/'
+#     tag: '/blog/tag/:name/'
+#     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'reviews', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+# display_tags: ['formatting', 'images', 'reviews', 'code'] # these tags will be displayed on the front page of your blog
+# display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
