@@ -18,6 +18,10 @@ nav_order: 1
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
+<h1>books</h1>
+
+{% bibliography -f books %}
+
 <h1>scientific dissemination</h1>
 
 {% bibliography -f  dissemination %}
@@ -25,6 +29,7 @@ nav_order: 1
 <h1>conferences</h1>
 
 {% bibliography -f conferences %}
+
 
 <h1>collabs</h1>
 
