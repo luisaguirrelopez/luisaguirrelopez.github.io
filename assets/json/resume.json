@@ -34,6 +34,18 @@
       "highlights": 
         ""
       
+    },
+
+    {
+      "name": "Department of Geography, Florida State University",
+      "position": "Research and Teaching Assistant",
+      "url": "https://cosspp.fsu.edu/geography/#",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Research/Teaching Assistant & Instructor of Record",
+      "highlights": 
+        ""
+      
     }
   ],
   
@@ -76,6 +88,12 @@
     
   ],
   "awards": [
+    {
+      "title": "IALE-NA Student Travel Award",
+      "date": "2026",
+      "awarder": "International Association for Landscape Ecology (North America)"
+    },
+
     {
       "title": "Honorific Mention",
       "date": "2020",
