@@ -101,8 +101,29 @@
       "summary": "For the quality of the thesis work, the oral presentation of the research, and for the academic performance when studying the master’s degree."
     }
   ],
+
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Using large language models to address the bottleneck of georeferencing natural history collections",
+      "publisher": "Nature Plants",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1038/s41477-025-02162-y"
+    },
+
+    {
+      "name": "Rethinking ecological niches and geographic distributions in face of pervasive human influence in the Anthropocene",
+      "publisher": "Biological Reviews",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1111/brv.13077"
+    },
+    {
+      "name": "Use of distribution models in the conservation of a Mexican endemic lagomorph",
+      "publisher": "Therya",
+      "releaseDate": "2021",
+      "url": "https://therya.mastozoologiamexicana.com/index.php/THERYA/article/view/1088/pdf_364"
+    }
+  ],
   "skills": [],
   "languages": [
     {
