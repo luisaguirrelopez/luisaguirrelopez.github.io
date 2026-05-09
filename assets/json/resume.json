@@ -105,6 +105,13 @@
   "certificates": [],
   "publications": [
     {
+      "name": "The Multifaceted Effects of Anthropogenic and Climatic Factors on Ecological Networks",
+      "publisher": "Global Ecology and Biogeography",
+      "releaseDate": "2026",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70246"
+    },
+
+    {
       "name": "Using large language models to address the bottleneck of georeferencing natural history collections",
       "publisher": "Nature Plants",
       "releaseDate": "2025",
